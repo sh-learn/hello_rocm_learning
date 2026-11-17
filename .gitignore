@@ -1,0 +1,10 @@
+# Track only learning notes and this ignore file at the repository root.
+/*
+!/.gitignore
+!/notes/
+
+# Keep local source checkouts out of this repository.
+/hello_rocm/
+/hello-rocm/
+
+.DS_Store
