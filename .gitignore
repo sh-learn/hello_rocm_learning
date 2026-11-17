@@ -1,6 +1,7 @@
-# Track only learning notes and this ignore file at the repository root.
+# Track learning notes, the README, and this ignore file at the repository root.
 /*
 !/.gitignore
+!/README.md
 !/notes/
 
 # Keep local source checkouts out of this repository.
